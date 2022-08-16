@@ -46,13 +46,6 @@
     display: none;
 }
 
-.rightPart{
-    display: flex;
-    flex-wrap: wrap;
-
-}
-
-
 .listDonePart{
     background-color: azure;
     display: hidden;

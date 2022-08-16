@@ -1,0 +1,78 @@
+.container{
+   display: flex;
+}
+
+.inputPart{
+    display: flex;
+}
+
+
+.input{
+    width: 300px;
+    height: 24px;
+}
+
+.button_add{
+    width: 40px;
+    height: 30px;
+}
+
+.element{
+    width: 345px;
+    display: flex;
+    align-items: center;
+    border: 1px solid red;
+}
+
+.delDiv{
+    width:17px;
+    height: 17px;
+    justify-content: right;
+}
+.done{
+    width:17px;
+    height: 17px;
+    justify-content: right;
+    margin-left: auto;
+
+}
+
+
+
+
+
+
+.hidden{
+    display: none;
+}
+
+.rightPart{
+    display: flex;
+    flex-wrap: wrap;
+
+}
+
+
+.listDonePart{
+    background-color: azure;
+    display: hidden;
+}
+
+.donePart{
+    display: flex;
+    flex-wrap: wrap;
+    width:    347px;
+    height: 28px;
+    background-color: white;
+    border: 1px solid red;
+   
+}
+
+  
+
+
+
+
+
+
+
